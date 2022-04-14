@@ -1,0 +1,20 @@
+body {
+  padding-top: 2rem;
+  margin: auto;
+  max-width: 800px;
+}
+
+.todoContainer {
+  max-width: 300px;
+  align-items: center;
+}
+
+.todoItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.done{
+  text-decoration: line-through;
+}
